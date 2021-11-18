@@ -1,0 +1,9 @@
+#pragma once
+#include <windows.h>
+#include <iostream>
+#include <windowsX.h>
+#include <tchar.h>
+#include "resource1.h"
+#include <iomanip>
+#include <string>
+#include <tlhelp32.h>
